@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bbernag
-- 👀 I’m interested in all stuff about web development
-- 🌱 I’m currently mastering MongoDB and Node
-- 💞️ I’m looking to collaborate on React projects
+- 👀 
+- 🌱
+- 💞️
 - 📫 luisbernagl@gmail.com
 
 <!---
